@@ -17,8 +17,9 @@ Before running TL it needs to prepare a list of
 3. Update Category list csv file .scandipwa/category_url.csv
 4. Update Product list csv file .scandipwa/product_list.csv
 
-_Note: To prepare category and product list, use url_rewrite table or access.log. Filter our product url's by stock availability
-Note: To prepare search list we would recommend to use magento search_terms DB table._
+_Note:_
+_To prepare category and product list, use url_rewrite table or access.log. Filter our product url's by stock availability_
+_To prepare search list we would recommend to use magento search_terms DB table._
 
 
 ---
